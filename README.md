@@ -8,15 +8,15 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 ### An Introduction
 
-1.1 [An Introduction to JavaScript](https://github.com/Bunlong/The-JavaScript-Language/wiki/1.1-An-Introduction-to-JavaScript)
+1.1 [An Introduction to JavaScript](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/1.1-An-Introduction-to-JavaScript)
 
-1.2 [Code editors](https://github.com/Bunlong/The-JavaScript-Language/wiki/1.2-Code-editors)
+1.2 [Code editors](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/1.2-Code-editors)
 
-1.3 [Developer console](https://github.com/Bunlong/The-JavaScript-Language/wiki/1.3-Developer-console)
+1.3 [Developer console](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/1.3-Developer-console)
 
 ### JavaScript Fundamentals
 
-2.1 [Hello, world!](https://github.com/Bunlong/The-JavaScript-Language/wiki/2.1-Hello,-world!)
+2.1 [Hello, world!](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.1-Hello,-world!)
 
 2.2 [Code structure](https://github.com/bunlong)
 
