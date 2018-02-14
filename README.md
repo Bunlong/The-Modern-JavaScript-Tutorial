@@ -24,7 +24,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 2.4 [Variables](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.4-Variables)
 
-2.5 Data types
+2.5 [Data types](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.5-Data-types)
 
 2.6 Type Conversions
 
