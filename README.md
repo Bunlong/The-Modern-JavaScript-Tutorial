@@ -22,7 +22,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 2.3 [The modern mode, "use strict"](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.3-The-modern-mode,-%22use-strict%22)
 
-2.4 Variables
+2.4 [Variables](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.4-Variables)
 
 2.5 Data types
 
