@@ -26,7 +26,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 2.5 [Data types](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.5-Data-types)
 
-2.6 Type Conversions
+2.6 [Type Conversions](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.6-Type-Conversions) 
 
 2.7 Operators
 
