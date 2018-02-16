@@ -30,11 +30,11 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 2.7 [Operators](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.7-Operators)
 
-2.8 Comparisons
+2.8 [Comparisons](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.8-Comparisons)
 
-2.9 Interaction: alert, prompt, confirm
+2.9 [Interaction: alert, prompt, confirm](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.9-Interaction:-alert,-prompt,-confirm)
 
-2.10 Conditional operators: if, '?'
+2.10 [Conditional operators: if, '?'](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.10-Conditional-operators:-if,-'%3F')
 
 2.11 Logical operators
 
