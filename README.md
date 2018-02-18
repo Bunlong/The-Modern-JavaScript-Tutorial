@@ -46,4 +46,4 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 2.15 [Function expressions and arrows](pages/2.15-Function-expressions-and-arrows.md)
 
-2.16 JavaScript specials
+2.16 [JavaScript specials](pages/2.16-JavaScript-specials.md)
