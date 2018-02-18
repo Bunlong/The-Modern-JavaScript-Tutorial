@@ -47,3 +47,12 @@ We concentrate on the language itself here, with the minimum of environment-spec
 2.15 [Function expressions and arrows](pages/2.15-Function-expressions-and-arrows.md)
 
 2.16 [JavaScript specials](pages/2.16-JavaScript-specials.md)
+
+### Code quality
+
+3.1 Debugging in Chrome
+3.2 Coding style
+3.3 Comments
+3.4 Ninja code
+3.5 Automated testing with mocha
+3.6 Polyfills
