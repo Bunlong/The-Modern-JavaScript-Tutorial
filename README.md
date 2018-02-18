@@ -36,13 +36,13 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 2.10 [Conditional operators: if, '?'](pages/2.10-Conditional-operators.md)
 
-2.11 Logical operators
+2.11 [Logical operators](pages/2.11-Logical-operators.md)
 
-2.12 Loops: while and for
+2.12 [Loops: while and for](pages/2.12-Loops.md)
 
-2.13 The "switch" statement
+2.13 [The "switch" statement](pages/2.13-The-switch-statement.md)
 
-2.14 Functions
+2.14 [Functions](pages/2.14-Functions.md)
 
 2.15 Function expressions and arrows
 
