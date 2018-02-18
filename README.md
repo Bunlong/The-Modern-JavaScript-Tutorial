@@ -51,8 +51,13 @@ We concentrate on the language itself here, with the minimum of environment-spec
 ### Code quality
 
 3.1 Debugging in Chrome
+
 3.2 Coding style
+
 3.3 Comments
+
 3.4 Ninja code
+
 3.5 Automated testing with mocha
+
 3.6 Polyfills
