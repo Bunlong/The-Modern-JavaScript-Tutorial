@@ -8,33 +8,33 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 ### An Introduction
 
-1.1 [An Introduction to JavaScript](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/1.1-An-Introduction-to-JavaScript)
+1.1 [An Introduction to JavaScript](pages/1.1-An-Introduction-to-JavaScript.md)
 
-1.2 [Code editors](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/1.2-Code-editors)
+1.2 [Code editors](pages/1.2-Code-editors.md)
 
-1.3 [Developer console](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/1.3-Developer-console)
+1.3 [Developer console](pages/1.3-Developer-console.md)
 
 ### JavaScript Fundamentals
 
-2.1 [Hello, world!](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.1-Hello,-world!)
+2.1 [Hello, world!](pages/2.1-Hello-world.md)
 
-2.2 [Code structure](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.2-Code-structure)
+2.2 [Code structure](pages/2.2-Code-structure.md)
 
-2.3 [The modern mode, "use strict"](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.3-The-modern-mode,-%22use-strict%22)
+2.3 [The modern mode, "use strict"](pages/2.3-The-modern-mode.md)
 
-2.4 [Variables](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.4-Variables)
+2.4 [Variables](pages/2.4-Variables.md)
 
-2.5 [Data types](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.5-Data-types)
+2.5 [Data types](pages/2.5-Data-types.md)
 
-2.6 [Type Conversions](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.6-Type-Conversions) 
+2.6 [Type conversions](pages/2.6-Type-conversions.md)
 
-2.7 [Operators](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.7-Operators)
+2.7 [Operators](pages/2.7-Operators.md)
 
-2.8 [Comparisons](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.8-Comparisons)
+2.8 [Comparisons](pages/2.8-Comparisons.md)
 
-2.9 [Interaction: alert, prompt, confirm](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.9-Interaction:-alert,-prompt,-confirm)
+2.9 [Interaction: alert, prompt, confirm](pages/2.9-Interaction.md)
 
-2.10 [Conditional operators: if, '?'](https://github.com/Bunlong/The-Modern-JavaScript-Tutorial/wiki/2.10-Conditional-operators:-if,-'%3F')
+2.10 [Conditional operators: if, '?'](pages/2.10-Conditional-operators.md)
 
 2.11 Logical operators
 
