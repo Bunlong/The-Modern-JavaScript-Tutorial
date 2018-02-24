@@ -62,7 +62,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 3.6 Polyfills
 
-### Code quality
+### Objects: the basics
 
 4.1 Objects
 
