@@ -64,7 +64,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 ### Objects: the basics
 
-4.1 Objects
+4.1 [Objects](pages/4.1-Objects.md)
 
 4.2 Garbage collection
 
