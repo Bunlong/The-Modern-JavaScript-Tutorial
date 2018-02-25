@@ -66,7 +66,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 4.1 [Objects](pages/4.1-Objects.md)
 
-4.2 Garbage collection
+4.2 [Garbage collection](pages/4.2-Garbage-collection.md)
 
 4.3 Symbol type
 
