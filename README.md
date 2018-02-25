@@ -68,7 +68,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 4.2 [Garbage collection](pages/4.2-Garbage-collection.md)
 
-4.3 Symbol type
+4.3 [Symbol type](pages/4.3-Symbol-type.md)
 
 4.4 Object methods, "this"
 
