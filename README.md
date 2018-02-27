@@ -74,4 +74,4 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 4.5 [Object to primitive conversion](pages/4.5-Object-to-primitive-conversion.md)
 
-4.6 Constructor, operator "new"
+4.6 [Constructor, operator "new"](pages/4.6-Constructor-new.md)
