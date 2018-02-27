@@ -70,7 +70,7 @@ We concentrate on the language itself here, with the minimum of environment-spec
 
 4.3 [Symbol type](pages/4.3-Symbol-type.md)
 
-4.4 Object methods, "this"
+4.4 [Object methods, "this"](pages/4.4-Object-methods.md)
 
 4.5 Object to primitive conversion
 
