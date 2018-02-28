@@ -75,3 +75,27 @@ We concentrate on the language itself here, with the minimum of environment-spec
 4.5 [Object to primitive conversion](pages/4.5-Object-to-primitive-conversion.md)
 
 4.6 [Constructor, operator "new"](pages/4.6-Constructor-new.md)
+
+### Data types
+
+5.1 [Methods of primitives](pages/5.1-Primitives-methods.md)
+
+5.2 Numbers
+
+5.3 Strings
+
+5.4 Arrays
+
+5.5 Array methods
+
+5.6 Iterables
+
+5.7 Map, Set, WeakMap and WeakSet
+
+5.8 Object.keys, values, entries
+
+5.9 Destructuring assignment
+
+5.10 Date and time
+
+5.11 JSON methods, toJSON
